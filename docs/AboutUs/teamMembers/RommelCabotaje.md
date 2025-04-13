@@ -29,8 +29,7 @@ System.out.println("bruh");
 ```
 This is built on GitHub Pages here is the [Main Repository](https://github.com/rcabotaje/lab1cse110)
 
-[Here](README.md) is the READme.md file for the Repo
-[Bowling](bowling.jpeg) is the file of the bowling picture I used.
+[Bowling](/img/bowling.jpeg) is the file of the bowling picture I used.
 
 # Lists
 

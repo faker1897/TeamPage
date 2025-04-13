@@ -8,7 +8,6 @@ I'm Victoria, a third year Computer Science major and transfer student at [UCSD]
 - I have experience in **web development**.
 - I like coding with Java, HTML/CSS, C++, SQL, and PHP.
 - I used to figure skate, but now I skate only for fun.
-- [View the README file](./README.md)
 - I love traveling and my most recent trip was to Portugal.
 
 ![Pastel de nata](\img\PastelDeNata.jpeg)

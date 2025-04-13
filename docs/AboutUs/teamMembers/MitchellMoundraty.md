@@ -23,7 +23,6 @@ Here's a random [video](https://www.youtube.com/watch?v=mKij8pU075w) that I saw 
 
 This goes to the bottom of the [page](#hello-world)
 
-Here is my [README.md](README.md) file
 
 Here are three things that I love
 - Tacos

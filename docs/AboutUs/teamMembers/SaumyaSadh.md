@@ -10,7 +10,7 @@ Hi! My name is **Saumya Sadh**, I am a senior double majoring in **Mathematics-C
 Outside of academics, I really enjoy **adventure sports**. I am a certified **advanced scuba diver** and **freediver**, and I also really enjoy **rock climbing**!  
 🎮 *Mario Kart* and *FIFA* are my favorite video games, and I love reading books about **finance** and **programming**.
 
-![Me](/img/Apicture.jpg)
+<!-- ![Me](/img/Apicture.jpg) -->
 
 ## 📚 Skills
 
@@ -32,7 +32,7 @@ def hello():
     print("Hello, GitHub Pages!")
 ```
 
-[Link to the photo → IMG_1291.jpeg](IMG_1291.jpeg)  
+<!-- [Link to the photo → IMG_1291.jpeg](/img/IMG_1291.jpeg)  --> 
 *(Relative link to image as a file)*
 
 [Jump to Skills](#-skills)  

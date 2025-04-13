@@ -1,0 +1,10 @@
+YunsongYang:
+  name: YunsongYang
+  title: Student
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    github: faker1897
+
+  

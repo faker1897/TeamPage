@@ -35,7 +35,7 @@ print("Hello World!")
 ### Joshua's Most used website:
 [Google](https://www.google.com/)
 
-[If you're curious how my day went, click this!](diary.md)
+[If you're curious how my day went, click this!](../../StaticMd/diary.md)
 
 The names of my 5 guppies are:
 - Frank

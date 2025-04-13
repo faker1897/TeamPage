@@ -22,7 +22,7 @@ If you go to McDonalds, they used to sell nuggets in packs of 9 and packs of 20.
 [ArtStation](https://www.artstation.com/kybcr)
 
 ## a recent artwork
-[click](/xiaogongzi.jpg)
+[click](/img/xiaogongzi.jpg)
 
 ## Research interests
 
