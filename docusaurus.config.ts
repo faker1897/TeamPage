@@ -10,15 +10,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://faker1897.github.io',
+  url: 'https://faker1897.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/TeamPage/',
-  deploymentBranch: 'deploy',
+  baseUrl: '/TeamPage_deploy/',
+  deploymentBranch: 'gf-pages',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'faker1897', // Usually your GitHub org/user name.
-  projectName: 'TeamPage', // Usually your repo name.
+  projectName: 'TeamPage_deploy', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
