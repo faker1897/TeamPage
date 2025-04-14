@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteam_2_page=self.webpackChunkteam_2_page||[]).push([[970],{5911:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/TeamPage/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
